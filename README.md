@@ -1,3 +1,3 @@
 # DEQuiz
 
-Testing the readme function of this github.
+Deliverable 2.1 
